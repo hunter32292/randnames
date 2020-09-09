@@ -8,7 +8,7 @@ package main
 import (
   "log"
   
-  "https://github.com/hunter32292/randnames"
+  "github.com/hunter32292/randnames"
 )
 
 func main(){
